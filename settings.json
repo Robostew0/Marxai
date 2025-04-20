@@ -1,0 +1,5 @@
+{
+    "model": "marx:latest",
+    "stream": true,
+    "url": "http://localhost:11434/api/generate"
+}
