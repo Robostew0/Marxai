@@ -1,6 +1,8 @@
 {
     "model": "marx:latest",
+    "creativity" : 0.9,
+    "voice": 2,
     "stream": true,
-    "url": "http://localhost:11434/api/chat",
+    "url": "http://192.168.86.21:11434/api/chat",
     "endtokens": [".", "!", "?"]
 }
